@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mahbubeh 👋
 
-<!--
-**mahi1989n8n/mahi1989n8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI & Automation Enthusiast  
+I enjoy exploring AI tools, automation systems, and open-source technologies.
 
-Here are some ideas to get you started:
+### 🌱 I'm learning:
+- n8n automation
+- AI tools
+- Git & GitHub basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Current Projects:
+- Testing AI tools
+- Simple automation workflows
+
+Thanks for visiting my profile!
